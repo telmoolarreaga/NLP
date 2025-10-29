@@ -1,0 +1,7 @@
+# Ignorar entornos de Conda
+env/
+*.pyc
+__pycache__/
+
+# Ignorar datasets grandes
+dataa/
