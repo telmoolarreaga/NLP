@@ -4,4 +4,4 @@ env/
 __pycache__/
 
 # Ignorar datasets grandes
-dataa/
+data/
