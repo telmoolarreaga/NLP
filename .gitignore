@@ -5,3 +5,8 @@ __pycache__/
 
 # Ignorar datasets grandes
 data/
+
+models/
+results/
+
+news_summaries_bart/
